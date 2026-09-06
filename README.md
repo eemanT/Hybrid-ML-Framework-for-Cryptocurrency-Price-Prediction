@@ -1,0 +1,2 @@
+# Hybrid-ML-Framework-for-Cryptocurrency-Price-Prediction
+This project develops a hybrid deep learning framework for cryptocurrency price movement prediction using CNN, LSTM, and BiLSTM networks. It analyzes OHLCV and Fear and Greed Index data for seven cryptocurrencies, combining technical and sentiment features. A FastAPI backend and React frontend provide AI predictions and interactive visualizations.
