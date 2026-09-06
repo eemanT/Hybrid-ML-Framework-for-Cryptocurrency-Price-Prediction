@@ -1,4 +1,4 @@
-# NeuralPredict v2 — AI Crypto Terminal
+# NeuralPredict v2 — Final Year Project 2026
 
 Multi-page React frontend + FastAPI backend.
 
